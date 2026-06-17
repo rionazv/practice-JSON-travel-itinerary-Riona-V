@@ -1,0 +1,37 @@
+{
+    "tripName": "My Vacation",
+
+    "contact":
+        {
+            "email": "someone@example.com",
+            "phone": "555-555-1234"
+        },
+
+    "destinations": 
+        [
+            {
+                "location": "Paris",
+                "arrivalDate": "2026-06-17",
+                "departureDate": "2026-06-15",
+                "activities": 
+                    [
+                        { "title": "Nature walk", "time": "13:00" },
+                        { "title": "Dinner", "time": "18:00" }
+                    ]
+                    
+            },
+
+            {
+                "location": "Chicago",
+                "arrivalDate": "2026-06-19",
+                "departureDate": "2026-06-18",
+                "activities": 
+                    [
+                        { "title": "Fireworks", "time": "22:00" },
+                        { "title": "Afterparty", "time": "23:00" }
+                    ]
+                    
+            }
+        ]
+    
+}
