@@ -18,10 +18,13 @@
                     [
                         { "title": "Nature walk", "time": "13:00" },
                         { "title": "Dinner", "time": "18:00" }
+                    ],
+                "transportation": 
+                    [
+                        {"mode": "Red-eye flight"},
+                        {"cost": "200.00"}    
                     ]
-                    
             },
-
             {
                 "location": "Chicago",
                 "arrivalDate": "2026-06-19",
@@ -30,6 +33,11 @@
                     [
                         { "title": "Fireworks", "time": "22:00" },
                         { "title": "Afterparty", "time": "23:00" }
+                    ],
+                    "transportation": 
+                    [
+                        {"mode": "Amtrak Train"},
+                        {"cost": "20.00"}    
                     ]
                     
             }
